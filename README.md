@@ -4,6 +4,7 @@ All python projects for beginners. These are organized by meeting date.
 # To use (Mac OSX): 
 
 **1.) Download this zip file.**
+- Video here: https://www.youtube.com/watch?v=xolUBXphO94
 
 **2.) Make sure you have python installed.**
 - If you don't, go here and follow installation directions: https://wsvincent.com/install-python3-mac/

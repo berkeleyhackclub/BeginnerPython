@@ -25,9 +25,9 @@ For a video here: https://www.youtube.com/watch?v=Txt-cLLa_vo
 
 **1.) Make a file in atom. You can do this by clicking File > New File**
 
-**2.) Save your file to your desktop. File > Save As.. **
+**2.) Save your file to your desktop. File > Save As..**
 
-**3.) Open terminal. Run 'python <pathoffile>' **
+**3.) Open terminal. Run 'python <pathoffile>'**
   - You can also do 'python' then drag the file into terminal and hit command. It will compile. 
   
 

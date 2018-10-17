@@ -27,7 +27,8 @@ For a video here: https://www.youtube.com/watch?v=Txt-cLLa_vo
 
 **2.) Save your file to your desktop. File > Save As..**
 
-**3.) Open terminal. Run 'python <pathoffile>'**
+**3.) Open terminal. Run 'python' + filepath**
+  - Example: 'python /Users/Andre/Desktop/Python\ Projects/buildsomethingyoulike.py' NOTE: whatever comes after 'python' is YOUR path. This should be different for every file. 
   - You can also do 'python' then drag the file into terminal and hit command. It will compile. 
   
 

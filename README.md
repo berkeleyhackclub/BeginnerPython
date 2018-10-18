@@ -4,7 +4,7 @@ All python projects for beginners. These are organized by meeting date.
 # To use in H205 Lab (Mac OSX): 
 
 **1.) Download this zip file.**
-- Just click 'download zip', save to your desktop or documents
+- Just click 'Clone or download' > 'Download Zip', save to your desktop or documents
 - Video here: https://www.youtube.com/watch?v=xolUBXphO94
 
 **2.) Open terminal. This can be done by going to search bar, and typing 'terminal', then open.**

@@ -1,7 +1,32 @@
 # Beginner Python Scripts
 All python projects for beginners. These are organized by meeting date.
 
-# To use (Mac OSX): 
+# To use in H205 Lab (Mac OSX): 
+
+**1.) Download this zip file.**
+- Just click 'download zip', save to your desktop or documents
+- Video here: https://www.youtube.com/watch?v=xolUBXphO94
+
+**2.) Open terminal. This can be done by going to search bar, and typing 'terminal', then open.**
+
+**3.) Open one of the .py files in atom.** 
+- You can use these for copying or simply reference
+- It is useful to have an updated version of this at all times, keep it in your desktop or documents. 
+
+
+# To make a file and compile (Mac OSX)
+
+For a video here: https://www.youtube.com/watch?v=Txt-cLLa_vo
+
+**1.) Make a file in atom. You can do this by clicking File > New File**
+
+**2.) Save your file to your desktop. File > Save As..**
+
+**3.) Open terminal. Run 'python' + filepath**
+  - Example: 'python /Users/Andre/Desktop/Python\ Projects/buildsomethingyoulike.py' NOTE: whatever comes after 'python' is YOUR path. This should be different for every file. 
+  - You can also do 'python' then drag the file into terminal and hit command. It will compile. 
+  
+# To use at home (Mac OSX): 
 
 **1.) Download this zip file.**
 - Video here: https://www.youtube.com/watch?v=xolUBXphO94
@@ -20,18 +45,6 @@ All python projects for beginners. These are organized by meeting date.
 - You can use these for copying or simply reference
 - It is useful to have an updated version of this at all times, keep it in your desktop or documents. 
 
-# To make a file and compile (Mac OSX)
-
-For a video here: https://www.youtube.com/watch?v=Txt-cLLa_vo
-
-**1.) Make a file in atom. You can do this by clicking File > New File**
-
-**2.) Save your file to your desktop. File > Save As..**
-
-**3.) Open terminal. Run 'python' + filepath**
-  - Example: 'python /Users/Andre/Desktop/Python\ Projects/buildsomethingyoulike.py' NOTE: whatever comes after 'python' is YOUR path. This should be different for every file. 
-  - You can also do 'python' then drag the file into terminal and hit command. It will compile. 
-  
 
 
 

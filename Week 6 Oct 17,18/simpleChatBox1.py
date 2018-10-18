@@ -15,7 +15,8 @@ def searchInput(input):
     listInput = input.split(" ")
     response = "Well, life is life."
     for word in listInput:
-        response = getResponse(word)
+        if getResponse(word): #If the word matches our key words
+            response = getResponse(word)
 
     print(response)
 

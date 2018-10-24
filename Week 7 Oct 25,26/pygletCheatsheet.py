@@ -9,15 +9,15 @@ import pyglet
 window = pyglet.window.Window(width=400, height=400, caption="game")
 
 # HOW TO: Create some x,y,width, and height variables (used later)
-x = 100
-y = 100
+x = 100 
+y = 100 
 width = 100
 height = 100
 
 # HOW TO: Draw an image. Make sure you have an image in your project folder.
-image = pyglet.resource.image('kitten.png')
-sprite = pyglet.sprite.Sprite(image)
-sprite.x = x
+image = pyglet.resource.image('kitten.png') # 'kitten.png' should be in folder to run
+sprite = pyglet.sprite.Sprite(image) 
+sprite.x = x # Define the x and y position values 
 sprite.y = y
 
 # HOW TO: Draw multiple objects to the screen and order them.
@@ -39,7 +39,7 @@ label = pyglet.text.Label('Hello, world',
 )
 
 # HOW TO: Import font file and draw text
-pyglet.font.add_file('font.ttf')
+pyglet.font.add_file('font.ttf') # Make sure you have 'font.ttf' in your project folder
 font = pyglet.font.load('font')
 pyglet.text.Label('Hello, world', font_name="font", batch=batch, group=foreground)
 

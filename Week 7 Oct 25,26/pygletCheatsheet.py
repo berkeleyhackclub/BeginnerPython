@@ -59,8 +59,8 @@ window.push_handlers(pressed_keys)
 def on_draw():
     window.clear() # Clears window of graphics (in order to update again)
     pyglet.graphics.draw(4, pyglet.gl.GL_QUADS, # Draws rectangle
-    ('v2i', (x,y , x+width,y , x+width,y+height , x,y+height)),
-    ('c4f', color)
+    	('v2i', (x,y , x+width,y , x+width,y+height , x,y+height)),
+    	('c4f', color)
     )
     sprite.draw() # Draws sprite defined above
     label.draw() # Draws label defined above
@@ -86,7 +86,15 @@ pyglet.app.run()
 
 # HOW TO: Mouse events:
 def on_mouse_motion(x, y, dx, dy):
+	pass
+
 def on_mouse_press(x, y, button, modifiers):
+	pass
+
 def on_mouse_release(x, y, button, modifiers):
+	pass
+
 def on_mouse_drag(x, y, dx, dy, buttons, modifiers):
+	pass
+
 #EX: button = pyglet.window.mouse.LEFT / RIGHT / MIDDLE

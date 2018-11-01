@@ -1,7 +1,7 @@
 # Beginner Python Scripts
-All python projects for beginners. These are organized by meeting date.
+All python projects for beginners. These are organized by meeting date. Assuming you are using a mac. 
 
-# To use in H205 Lab (Mac OSX): 
+# To use in H205 Lab : 
 
 **1.) Download this zip file.**
 - Just click 'Clone or download' > 'Download Zip', save to your desktop or documents
@@ -14,7 +14,7 @@ All python projects for beginners. These are organized by meeting date.
 - It is useful to have an updated version of this at all times, keep it in your desktop or documents. 
 
 
-# To make a file and compile (Mac OSX)
+# To make a file and compile:
 
 For a video here: https://www.youtube.com/watch?v=Txt-cLLa_vo
 
@@ -26,7 +26,7 @@ For a video here: https://www.youtube.com/watch?v=Txt-cLLa_vo
   - Example: 'python /Users/Andre/Desktop/Python\ Projects/buildsomethingyoulike.py' NOTE: whatever comes after 'python' is YOUR path. This should be different for every file. 
   - You can also do 'python' then drag the file into terminal and hit command. It will compile. 
   
-# To use at home (Mac OSX): 
+# To use at home: 
 
 **1.) Download this zip file.**
 - Video here: https://www.youtube.com/watch?v=xolUBXphO94
